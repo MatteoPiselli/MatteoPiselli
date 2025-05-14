@@ -13,7 +13,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
   *MyMoviz is a website developed in React that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*
 
 - 🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
-  *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*<br /> 
+  *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*
   *Tech Stack :
     Front-end : React / CSS3
     Back-end : Node.js/Express with database MongoDB*

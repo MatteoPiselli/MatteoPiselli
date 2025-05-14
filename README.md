@@ -15,9 +15,9 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 - 🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
   *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*
     
-  *Tech Stack :
-    Front-end : React / CSS3
-    Back-end : Node.js/Express with database MongoDB*
+  *Tech Stack :  
+     Front-end : React / CSS3  
+     Back-end : Node.js/Express with database MongoDB*
 
 - 🔹 [Portfolio v1](https://matteopiselli.github.io/react-portfolio/)  
   *My first responsive portfolio, developed with React and Tailwind CSS.*

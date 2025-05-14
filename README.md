@@ -1,14 +1,49 @@
-<h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">A FullStack Dev Web & Mobile Javascript</h3>
+# Hi there ! 👋
 
-- 👨‍💻 All of my projects are available at (soon) 😉
+### 🧾 About me
 
-- 📫 How to reach me **pro.matteo.piselli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matteo-piselli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matteo-piselli" height="30" width="40" /></a>
-</p>
+I'm Matteo Piselli, Fullstack Developer, specialized in the design and development web and mobile applications. I work mainly with JavaScript ecosystem technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Last projects
+
+- 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
+  *MyMoviz is a website developed in React that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*
+
+- 🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
+  *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*<br /> 
+  *Tech Stack :
+    Front-end : React / CSS3
+    Back-end : Node.js/Express with database MongoDB*
+
+- 🔹 [Portfolio v1](https://matteopiselli.github.io/react-portfolio/)  
+  *My first responsive portfolio, developed with React and Tailwind CSS.*
+
+---
+
+### 🌐 Tech Stack Web & Mobile 📱
+
+**🖥 Front-end :**  
+React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo
+
+**⚙ Back-end & BDD :**  
+Node.js / Express.js / MongoDB
+
+**🛠 Outils :**
+Git / GitHub / Bash / Vs Code / Figma / Vercel
+
+---
+
+### 📫 Contact
+
+- 📧 Email : [pro.matteo.piselli@gmail.com](mailto:pro.matteo.piselli@gmail.com)  
+- 💼 LinkedIn : [linkedin.com/in/matteo-piselli](https://www.linkedin.com/in/matteo-piselli)  
+
+---
+
+### 🏷️ Badges
+
+![Followers](https://img.shields.io/github/followers/MatteoPiselli?label=Abonnés&style=social)
+![Stars](https://img.shields.io/github/stars/MatteoPiselli?style=social)

@@ -9,12 +9,12 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 
 ### 🚀 Last projects
 
-- 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
+🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
   *MyMoviz is a website developed in React that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*
 
   *Deployed on Vercel*
 
-- 🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
+🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
   *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*  
   *Tech Stack :  
      Front-end : React / CSS3  
@@ -22,7 +22,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
   
   *Deployed on Vercel*
   
-- 🔹 [Portfolio v1](https://matteopiselli.github.io/react-portfolio/)  
+🔹 [Portfolio v1](https://matteopiselli.github.io/react-portfolio/)  
   *My first responsive portfolio, developed with React and Tailwind CSS.*
 
   *Deployed on GitHub Pages*

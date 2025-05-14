@@ -13,7 +13,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
   *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*  
   *Tech Stack :  
      Front-end : React / CSS3  
-     Back-end : Node.js/Express*   
+     Back-end : Node.js / Express*   
      
   *Deployed on Vercel*
 
@@ -21,7 +21,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
   *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*  
   *Tech Stack :  
      Front-end : HTML5 / CSS3 / JavaScript  
-     Back-end : Node.js/Express with database MongoDB*
+     Back-end : Node.js / Express with database MongoDB*
   
   *Deployed on Vercel*
   

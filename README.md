@@ -10,8 +10,11 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ### 🚀 Last projects
 
 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
-  *MyMoviz is a website developed in React that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*
-
+  *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*  
+  *Tech Stack :  
+     Front-end : React / CSS3  
+     Back-end : Node.js/Express*   
+     
   *Deployed on Vercel*
 
 🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  

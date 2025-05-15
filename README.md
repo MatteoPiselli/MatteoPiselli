@@ -8,11 +8,18 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ---
 
 ### 🚀 Last projects
+🔹 [Locapic]()  
+ *Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.*  
+ *Tech Stack :  
+   Front-end : React Native / Expo / Redux Toolkit  
+   Back-end : Node.js / Express with database MongoDB*
+
+  *Front deployed on Expo and Back on Vercel*
 
 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
   *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*  
   *Tech Stack :  
-     Front-end : React / CSS3  
+     Front-end : React / Next.js / CSS3  
      Back-end : Node.js / Express*   
      
   *Deployed on Vercel*

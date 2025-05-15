@@ -8,7 +8,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ---
 
 ### 🚀 Last projects
-🔹 [Locapic]()  
+🔹 [Locapic](https://github.com/MatteoPiselli/locapic-frontend)  
    *Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.*  
    *Tech Stack :  
    Front-end : React Native / Expo / Redux Toolkit  

@@ -14,7 +14,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
    Front-end : React Native / TypeScript / Expo / Redux Toolkit     
    Back-end : Node.js / Express*
 
-  *Front deployed on Expo and Back on Vercel*
+  *Front deployed with Expo and Back on Vercel*
 
 🔹 [Locapic](https://github.com/MatteoPiselli/locapic-frontend)  
    *Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.*  
@@ -22,7 +22,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
    Front-end : React Native / Expo / Redux Toolkit  
    Back-end : Node.js / Express with database MongoDB*
 
-  *Front deployed on Expo and Back on Vercel*
+  *Front deployed with Expo and Back on Vercel*
 
 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
   *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*  

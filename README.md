@@ -50,7 +50,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ### 🌐 Tech Stack Web & Mobile 📱
 
 **🖥 Front-end :**  
-React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo
+React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo / TypeScript
 
 **⚙ Back-end & BDD :**  
 Node.js / Express.js / MongoDB

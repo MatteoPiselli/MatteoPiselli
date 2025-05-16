@@ -11,7 +11,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 🔹 [FaceUp](https://github.com/MatteoPiselli/faceup-frontend)  
    *FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.*  
    *Tech Stack :  
-   Front-end : React Native / Expo / Redux Toolkit / TypeScript    
+   Front-end : React Native / TypeScript / Expo / Redux Toolkit     
    Back-end : Node.js / Express*
 
   *Front deployed on Expo and Back on Vercel*

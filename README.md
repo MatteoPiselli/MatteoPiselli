@@ -56,7 +56,7 @@ React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo / TypeScrip
 Node.js / Express.js / MongoDB
 
 **🛠 Tools :**
-Git / GitHub / Bash / VS Code / Figma / Vercel
+Git / GitHub / Bash / VS Code / Figma / Vercel / Expo
 
 ---
 

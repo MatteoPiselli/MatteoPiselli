@@ -8,10 +8,11 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ---
 
 ### 🚀 Last projects
-🔹 [FaceUp](https://github.com/MatteoPiselli/faceup-frontend)  
-   FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.* 
+🔹 [FaceUp]()  
+   FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.
 
-  Front deployed with Expo and Back on Vercel
+  Front deployed with Expo and Back on Vercel  
+  [Repo faceup-frontend](https://github.com/MatteoPiselli/faceup-frontend)
 
 🔹 [Locapic](https://github.com/MatteoPiselli/locapic-frontend)  
    Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.

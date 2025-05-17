@@ -15,7 +15,7 @@ View the [repo front-end](https://github.com/MatteoPiselli/faceup-frontend) / [r
 Front deployed with Expo and Back on Vercel
 
 🔹 **Locapic**  
-Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.  
+Locapic is a mobile application that allows to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest.   
 View the [repo front-end](https://github.com/MatteoPiselli/locapic-frontend) / [repo back-end](https://github.com/MatteoPiselli/locapic-backend)
 
 Front deployed with Expo and Back on Vercel

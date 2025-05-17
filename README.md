@@ -9,30 +9,30 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 
 ### 🚀 Last projects
 🔹 **FaceUp**  
-   FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.  
-   View the [repo front-end](https://github.com/MatteoPiselli/faceup-frontend) / [repo back-end](https://github.com/MatteoPiselli/faceup-backend)
+FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.  
+View the [repo front-end](https://github.com/MatteoPiselli/faceup-frontend) / [repo back-end](https://github.com/MatteoPiselli/faceup-backend)
 
-  Front deployed with Expo and Back on Vercel
+Front deployed with Expo and Back on Vercel
 
-🔹 [Locapic](https://github.com/MatteoPiselli/locapic-frontend)  
-   Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.
+🔹 **Locapic**  
+Locapic is a mobile application that allows you to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest and finding them easily.  
+View the [repo front-end](https://github.com/MatteoPiselli/locapic-frontend) / [repo back-end](https://github.com/MatteoPiselli/locapic-backend)
 
-  Front deployed with Expo and Back on Vercel
+Front deployed with Expo and Back on Vercel
 
-🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
-  MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.
+🔹 **MyMoviz**  
+MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.  
+Website click [here](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)   
+View the [repo front-end](https://github.com/MatteoPiselli/mymoviz-frontend) / [repo back-end](https://github.com/MatteoPiselli/mymoviz-backend)
      
-  Deployed on Vercel
+Deployed on Vercel
 
-🔹 [WeatherApp](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
-  *Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.*
+🔹 **WeatherApp**  
+Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.   
+Website click [here](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
+View the [repo front-end](https://github.com/MatteoPiselli/weatherapp-frontend) / [repo back-end](https://github.com/MatteoPiselli/weatherapp-backend)
   
-  Deployed on Vercel
-  
-🔹 [Portfolio v1](https://matteopiselli.github.io/react-portfolio/)  
-  My first responsive portfolio, developed with React and Tailwind CSS.
-
-  Deployed on GitHub Pages
+Deployed on Vercel
 
 ---
 

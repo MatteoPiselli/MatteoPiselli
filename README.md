@@ -27,7 +27,7 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
   *Front deployed with Expo and Back on Vercel*
 
 🔹 [MyMoviz](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)  
-  *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*  
+  *MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.*
   <br /><br />
   ***Tech Stack** :  
      Front-end : React / Next.js / CSS3  

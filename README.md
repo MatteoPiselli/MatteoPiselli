@@ -12,7 +12,9 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 My current portfolio, completely redone.  
 This project highlights my skills, projects and professional experiences through a modern, responsive and lively interface.  
 Website click [here](https://portfolio-matteo-pisellis-projects.vercel.app/)  
-View the [repo](https://github.com/MatteoPiselli/portfolio)
+View the [repo](https://github.com/MatteoPiselli/portfolio)  
+
+Deployed on Vercel
   
 🔹 **FaceUp**  
 FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.  

@@ -8,6 +8,12 @@ I'm Matteo Piselli, Fullstack Developer, specialized in the design and developme
 ---
 
 ### 🚀 Last projects
+🔹 **Portfolio v2**  
+My current portfolio, completely redone.  
+This project highlights my skills, projects and professional experiences through a modern, responsive and lively interface.  
+Website click [here](https://portfolio-matteo-pisellis-projects.vercel.app/)  
+View the [repo](https://github.com/MatteoPiselli/portfolio)
+  
 🔹 **FaceUp**  
 FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.  
 View the [repo front-end](https://github.com/MatteoPiselli/faceup-frontend) / [repo back-end](https://github.com/MatteoPiselli/faceup-backend)
@@ -27,19 +33,12 @@ View the [repo front-end](https://github.com/MatteoPiselli/mymoviz-frontend) / [
      
 Deployed on Vercel
 
-🔹 **WeatherApp**  
-Weather application connected to the OpenWeatherMap API, which displays the weather of the cities entered.   
-Website click [here](https://weatherapp-frontend-matteo-pisellis-projects.vercel.app/)  
-View the [repo front-end](https://github.com/MatteoPiselli/weatherapp-frontend) / [repo back-end](https://github.com/MatteoPiselli/weatherapp-backend)
-  
-Deployed on Vercel
-
 ---
 
 ### 🌐 Tech Stack Web & Mobile 📱
 
 **🖥 Front-end :**  
-React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo / TypeScript
+React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo
 
 **⚙ Back-end & BDD :**  
 Node.js / Express.js / MongoDB

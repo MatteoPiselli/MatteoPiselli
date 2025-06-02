@@ -40,13 +40,13 @@ Deployed on Vercel
 ### 🌐 Tech Stack Web & Mobile 📱
 
 **🖥 Front-end :**  
-React / React Native / Next.js / Redux Toolkit / Tailwind CSS / Expo
+React / Next.js / Redux Toolkit / Tailwind CSS / React Native / Expo
 
 **⚙ Back-end & BDD :**  
 Node.js / Express.js / MongoDB
 
 **🛠 Tools :**
-Git / GitHub / Bash / VS Code / Figma / Vercel / Expo
+Git & GitHub / Figma / Vercel / Expo Go
 
 ---
 

@@ -8,45 +8,69 @@ I'm Matteo Piselli, FullStack Developer, specialized in the design and developme
 ---
 
 ### 🚀 Last projects
-🔹 **Portfolio v2**  
-My current portfolio, completely redone.  
-This project highlights my skills, projects and professional experiences through a modern, responsive and lively interface.  
-Website click [here](https://portfolio-matteo-pisellis-projects.vercel.app/)  
+
+🔹 **SummonerFinder.gg** (2025)  
+
+Web application to search for League of Legends player profiles.
+
+- Search by username and tagline with display of the profile, recent games, champions played, etc.
+
+- Development of a REST API in Node.js / Express to interact with the Riot Games API.
+
+- Creation of the user interface with Next.js and Tailwind CSS.
+
+- Implementation of a dynamic display of game statistics.
+
+View the [front repo](https://github.com/MatteoPiselli/leagueoflegends-api-frontend) & [back repo](https://github.com/MatteoPiselli/leagueoflegends-api-backend) 
+
+<br />  
+
+🔹 **UNIMAP+** (2025)  
+
+Collaborative mobile application dedicated to the accessibility of public places.
+
+- Interface developed in React Native / Expo, integration of Google Maps.
+
+- Secure authentication with JWT, API REST in Express.js.
+
+- Storage of reports and user data in MongoDB.
+
+- Project conducted in Agile methodology, teamwork with clear distribution of roles, continuous communication, and the use of Git for version management.
+  
+View the [front repo](https://github.com/Myl-W/Unimap-frontend) & [back repo](https://github.com/Myl-W/Unimap-backend) 
+
+<!-- Demo -> click [here](https://portfolio-matteo-pisellis-projects.vercel.app/) -->
+
+<br />  
+
+🔹 **PORTFOLIO v2** (2025)  
+
+Web application highlighting my skills, projects and professional experiences.
+
+- Modern, responsive and animated interface in Next.js and Tailwind CSS.
+  
 View the [repo](https://github.com/MatteoPiselli/portfolio)  
 
-Deployed on Vercel
-  
-🔹 **FaceUp**  
-FaceUp is a mobile application for taking photos and storing them in an image gallery. Images are stored and delivered via Cloudinary, a cloud-based image management service.  
-View the [repo front-end](https://github.com/MatteoPiselli/faceup-frontend) / [repo back-end](https://github.com/MatteoPiselli/faceup-backend)
-
-Front deployed with Expo and Back on Vercel
-
-🔹 **Locapic**  
-Locapic is a mobile application that allows to geolocate a user by materializing his movements on an interactive map and offering the possibility of adding points of interest.   
-View the [repo front-end](https://github.com/MatteoPiselli/locapic-frontend) / [repo back-end](https://github.com/MatteoPiselli/locapic-backend)
-
-Front deployed with Expo and Back on Vercel
-
-🔹 **MyMoviz**  
-MyMoviz is a website connected to The Movie Database (TMDB) API, that allows you to display the latest released films with the possibility of creating a wishlist, place a view counter and evaluate each of the presented films.  
-Website click [here](https://mymoviz-frontend-matteo-pisellis-projects.vercel.app/)   
-View the [repo front-end](https://github.com/MatteoPiselli/mymoviz-frontend) / [repo back-end](https://github.com/MatteoPiselli/mymoviz-backend)
-     
-Deployed on Vercel
+Website click [here](https://portfolio-matteo-pisellis-projects.vercel.app/)
 
 ---
 
 ### 🌐 Tech Stack Web & Mobile 📱
 
 **🖥 Front-end :**  
-React / Next.js / Redux Toolkit / Tailwind CSS / React Native / Expo
+🔹 React / Next.js / React Native / Expo
 
-**⚙ Back-end & BDD :**  
-Node.js / Express.js / MongoDB
+**⚙ Back-end :**  
+🔹 Node.js / Express.js
 
-**🛠 Tools :**
-Git & GitHub / Figma / Vercel / Expo Go
+**🗃 Database :**  
+🔹 MongoDB  
+
+**🛠 Tools & Workflow :**  
+🔹 Git & GitHub / Copilot / Vercel / Expo Go  
+
+**🎨 Design & Prototyping :**   
+🔹 Tailwind CSS / Figma  
 
 ---
 
@@ -54,10 +78,3 @@ Git & GitHub / Figma / Vercel / Expo Go
 
 - 📧 Email : [pro.matteo.piselli@gmail.com](mailto:pro.matteo.piselli@gmail.com)  
 - 💼 LinkedIn : [linkedin.com/in/matteo-piselli](https://www.linkedin.com/in/matteo-piselli)  
-
----
-
-### 🏷️ Badges
-
-![Followers](https://img.shields.io/github/followers/MatteoPiselli?label=Abonnés&style=social)
-![Stars](https://img.shields.io/github/stars/MatteoPiselli?style=social)

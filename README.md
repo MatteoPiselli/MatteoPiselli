@@ -18,7 +18,7 @@ Web application to search for League of Legends player profiles.
 
 - Search by username and tagline with display of the profile, recent games, champions played, etc.
 
-- Development of a REST API in Node.js / Express to interact with the Riot Games API.
+- Development of a REST API in Express to interact with the Riot Games API.
 
 - Creation of the user interface with Next.js and Tailwind CSS.
 

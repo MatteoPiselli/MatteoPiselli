@@ -3,7 +3,10 @@
 ### 🧾 About me
 
 
-I'm Matteo Piselli, FullStack Developer, specialized in the design and development web and mobile applications. I work with JavaScript ecosystem technologies. I like to discover new technologies and develop projects that allow me to strengthen my skills.
+
+I am Matteo Piselli, developer FullStack, specialized in the design and development of web and mobile applications.  
+I design modern and powerful applications in React, Node.js and MongoDB.  
+Passionate about development, I like to create and observe the projects that I design evolve.
 
 ---
 
